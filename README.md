@@ -1,2 +1,4 @@
-# Coffee_Yield_Project
-Analysis of coffee yield vs rainfall and temperature.
+# Coffee Yield Analysis Project
+Analyzing the effect of rainfall and temperature on coffee yield.
+Author: Naksha Bojamma
+
